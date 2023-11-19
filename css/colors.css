@@ -3,5 +3,9 @@ h1 {
 }
 
 h2 {
-    color: #7E69E2
+    color: #7E69E2;
+}
+
+h3 {
+    color: rgb(255,0,255);
 }
